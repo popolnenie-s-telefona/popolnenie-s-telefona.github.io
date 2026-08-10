@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: popolnenie-s-telefona.github.io
+Sitemap: https://popolnenie-s-telefona.github.io/sitemap.xml
